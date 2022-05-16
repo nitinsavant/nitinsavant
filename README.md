@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @nitinsavant
-- 👀 I’m interested in Fintech
-- 🌱 I’m currently learning Java/Spring/FinTech.
 - 📫 Reach out -- me@nitinsavant.com
